@@ -1,5 +1,5 @@
 # blockseobots
-blockseobots
+
 This package blocks SEO link analytics crawlers from accessing your website. 
 Use it if you don't want the competition snooping around your website or if you just want to save some bandwidth.
 

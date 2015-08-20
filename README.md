@@ -7,7 +7,7 @@ Installation:
 
 add 
 
-`"jtaurus/blockseobots": "dev-master" 
+>"jtaurus/blockseobots": "dev-master" 
 
 to require in your composer.json file
 

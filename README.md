@@ -11,16 +11,18 @@ add
 
 to require in your composer.json file
 
-and then run composer update
+in command line, run:
+
+>composer update
 
 Next, add:
 
-Jtaurus\BlockSeoBots\ServiceProviders\BlockSeoBotsServiceProvider::class
+>Jtaurus\BlockSeoBots\ServiceProviders\BlockSeoBotsServiceProvider::class
 
 to providers array inside config/app.php
 
 The final step is to add:
 
-\Jtaurus\BlockSeoBots\Middleware\BlockSeoBotsMiddleware::class
+>\Jtaurus\BlockSeoBots\Middleware\BlockSeoBotsMiddleware::class
 
 into the the middleware array inside kernel.php

@@ -26,3 +26,7 @@ The final step is to add:
 >\Jtaurus\BlockSeoBots\Middleware\BlockSeoBotsMiddleware::class
 
 into the the middleware array inside kernel.php
+
+## Config:
+
+The array of forbidden user agents is located inside BlockSeoBots class. If you want to block another crawler, simply add a part of its user agent there.

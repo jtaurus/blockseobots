@@ -5,7 +5,11 @@ Use it if you don't want the competition snooping around your website or if you 
 
 Installation:
 
-simply add "jtaurus/blockseobots": "dev-master" to require in your composer.json file
+add 
+
+`"jtaurus/blockseobots": "dev-master" 
+
+to require in your composer.json file
 
 and then run composer update
 
